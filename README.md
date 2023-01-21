@@ -23,3 +23,8 @@ Files:
 
 [![DEMO1:](https://share.gifyoutube.com/KzB6Gb.gif)](https://github.com/Amrabdelhamed611/Fabric_Defect_Detection-/blob/1b7259c88b5b4134efcbb7bc088233e0abe7cbcd/predections_video.avi)
 
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/Amrabdelhamed611/Fabric_Defect_Detection-/blob/1b7259c88b5b4134efcbb7bc088233e0abe7cbcd/predections_video.avi" type="video/avi">
+
+</video>
