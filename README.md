@@ -21,6 +21,5 @@ Files:
 * **hypfine.yaml :** hyper-parameters file yolo model
     
 
-[![DEMO1:](https://share.gifyoutube.com/KzB6Gb.gif)](https://drive.google.com/file/d/1BfrG6VeHBmX5N-9xGJAhpDcxFTd4xqos/view?usp=share_link)
+[![DEMO1:](https://share.gifyoutube.com/KzB6Gb.gif)](https://github.com/Amrabdelhamed611/Fabric_Defect_Detection-/blob/1b7259c88b5b4134efcbb7bc088233e0abe7cbcd/predections_video.avi)
 
-https://github.com/Amrabdelhamed611/Fabric_Defect_Detection-/blob/1b7259c88b5b4134efcbb7bc088233e0abe7cbcd/predections_video.avi
